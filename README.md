@@ -22,3 +22,7 @@ A Ajump adventure game that you can jump and run.<br>
 <h5>HOW TO PLAY</h5> 
 - Use button to arrows button, top,left,right.<br>
 - Jump on the top of monsters to defeat them.<br>
+
+
+<br>
+Thank you @CodeWithHarry

@@ -9,7 +9,9 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-<h5>Ajump Game</h5> - is a classic javscript game that bring back memories of old school arcade games. A Ajump adventure game that you can jump and run.
+<h5>AJUMP GAME</h5> 
+- is a classic javscript game that bring back memories of old school arcade games. 
+A Ajump adventure game that you can jump and run.
 
 
 <h5>FEATURES</h5>
@@ -17,6 +19,6 @@
 - Easy and intuitive controls.
 - music and old school sound effects.
 
-<h5>HOW TO PLAY</h5>
+<h5>HOW TO PLAY</h5><br>
 - Use button to arrows button, top,left,right.
 - Jump on the top of monsters to defeat them.
